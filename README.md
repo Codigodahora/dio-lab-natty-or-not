@@ -1,51 +1,97 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Breve descrição do seu projeto
+Geração de um texto de Augusto dos Anjos que ele nunca escreveu: uma receita de bolo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT 4o
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt objetivo seguido de modelos estilísticos para renamento da IA:
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+```
+escreva uma receita de bolo no estilo de augusto dos anjos. use como referencia os textos a seguir:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Tome, Dr., esta tesoura, e... corte
+Minha singularíssima pessoa.
+Que importa a mim que a bicharia roa
+Todo o meu coração, depois da morte?!
+
+Ah! Um urubu pousou na minha sorte!
+Também, das diatomáceas da lagoa
+A criptógama cápsula se esbroa
+Ao contato de bronca destra forte!
+
+Dissolva-se, portanto, minha vida
+Igualmente a uma célula caída
+Na aberração de um óvulo infecundo;
+
+Mas o agregado abstrato das saudades
+Fique batendo nas perpétuas grades
+Do último verso que eu fizer no mundo!
+
+---
+
+Psicologia de um vencido
+Eu, filho do carbono e do amoníaco,
+Monstro de escuridão e rutilância,
+Sofro, desde a epigênese da infância,
+A influência má dos signos do zodíaco.
+
+Profundissimamente hipocondríaco,
+Este ambiente me causa repugnância...
+Sobe-me à boca uma ânsia análoga à ânsia
+Que se escapa da boca de um cardíaco.
+
+Já o verme — este operário das ruínas —
+Que o sangue podre das carnificinas
+Come, e à vida em geral declara guerra,
+
+Anda a espreitar meus olhos para roê-los,
+E há-de deixar-me apenas os cabelos,
+Na frialdade inorgânica da terra!
+
+---
+
+Vandalismo
+Meu coração tem catedrais imensas,
+Templos de priscas e longínquas datas,
+Onde um nume de amor, em serenatas,
+Canta a aleluia virginal das crenças.
+
+Na ogiva fúlgida e nas colunatas
+Vertem lustrais irradiações intensas
+Cintilações de lâmpadas suspensas
+E as ametistas e os florões e as pratas.
+
+Como os velhos Templários medievais
+Entrei um dia nessas catedrais
+E nesses templos claros e risonhos …
+
+E erguendo os gládios e brandindo as hastas,
+No desespero dos iconoclastas
+Quebrei a imagem dos meus próprios sonhos!
 ```
 
-### Exemplos e Insigths
+## 🚀 Resultados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+**Receita do Bolo Transcendental – em versos ao estilo de Augusto dos Anjos**
 
-## Links Interessantes
+Oh, massa inerte, pálida e viscosa,  
+Que em tigela de vidro se contorce,  
+Ovo – germe espoliado de seu norte –,  
+Une-te à farinha anônima e oclusa!  
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Na tigela, a manteiga, lívida esposa,  
+Amolecida em febre que a açoite,  
+Une-se ao açúcar, de alvura doce,  
+E à química fermentação impiedosa.  
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Mexa, então, com a fúria que o braço emana,  
+A conjugar o óleo à trama insana,  
+E o leite, plasma branco, ao caos profundo.  
+
+Vertida em forma, a massa sofre o fogo  
+E, ao crescer, exala o último rogo:  
+"Bolo, eu sou! Consumam-me no mundo!"  
+
